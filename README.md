@@ -51,6 +51,6 @@ THEN I find a concise, descriptive title
 ![index.html screenshot](./screenshot/website.png)
 
 
-[Click me for website](https://mt0814.github.io/Homework-week1/)
+[Click me for website](https://mt0814.github.io/Code-Refactor-Homework-week1/)
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

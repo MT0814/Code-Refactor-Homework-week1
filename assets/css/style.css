@@ -74,12 +74,11 @@ p {
 .content {
   width: 70%;
   display: inline-block;
-  margin-left: 20px;
+  margin-left: 1.9em;
 }
 
 .benefits {
-  margin-right: 20px;
-  margin-left: 20px;
+  margin-right: 1.9em;
   padding: 20px;
   clear: both;
   float: right;
@@ -123,7 +122,6 @@ p {
 }
 
 .footer {
-  padding: 20px;
   font-size: 14px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",

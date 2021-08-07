@@ -67,10 +67,20 @@ Change <div to <header class="header">
     height: 75em;
 }
 ```
+* Adjusted the margin for `content` and `benefit` to center both in webpage for a better look.
+```
+  .Content {
+  margin-left: 1.9em;
+  }
 
-![Optional Text](./screenshot/headernav.png)
+  .benefit {
+    margin-right: 1.9em;
+  }
+```
+
+![index.html screenshot](./screenshot/website.png)
 
 
-[Published Website](https://)
+[Click me for website](https://mt0814.github.io/Homework-week1/)
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
